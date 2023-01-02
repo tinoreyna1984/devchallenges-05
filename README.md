@@ -1,4 +1,4 @@
-#Classic Cheesecake Recipe
+#My gallery page
 
 Solution for a challenge from [Devchallenges.io](http://devchallenges.io).
 
